@@ -23,6 +23,12 @@
       "details": "ssadfasdf",
       "category": "money",
       "id": 4
+    },
+    {
+      "title": "Pay off credit card",
+      "details": "Pay Mastercard bill",
+      "category": "money",
+      "id": 5
     }
   ]
 }
